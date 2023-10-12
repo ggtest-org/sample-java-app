@@ -12,6 +12,8 @@ public class App {
 
         String password="MyPassword";
         String token="t1.AA=.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000=";
+        String token2="AQVN000000000000000000000000000000000000";
+        String tokenSlack="xoxa-123456789012-12345678901-123456789012-1234567890asdfghjklz1234567890as";
         return "Hello world.";
     }
 
