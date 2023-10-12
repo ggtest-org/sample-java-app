@@ -11,7 +11,7 @@ public class App {
         tempDir.mkdir();
 
         String password="MyPassword";
-        String token="y0_0000000000000000000000000000000000000000000000000000000";
+        String token="t1.AA=.00000000000000000000000000000000000000000000000000000000000000000000000000000000000000=";
         return "Hello world.";
     }
 
